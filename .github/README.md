@@ -14,7 +14,7 @@ Morg NPC has been made with the help of WeiDU. Unzip the folder to your Baldur's
 ## Who is Morg?
 ![Portrait of Morg](morg_face.png?raw=true)
 
-Morg is a Dwarven (Duergar) **Fighter/Necromancer**. Because of his Duergar race, he can cast invisibility as an innate ability. He does not have any banters yet, as I'm not sure how to do quality ones with the BioWare NPC's as it's impossible to do new voicelines for them.
+Morg is a Lawful Evil Dwarven (Duergar) **Fighter/Necromancer**. Because of his Duergar race, he can cast invisibility as an innate ability. He does not have any banters yet, as I'm not sure how to do quality ones with the BioWare NPC's as it's impossible to do new voicelines for them.
 
 ### Stats & profiencies
 
