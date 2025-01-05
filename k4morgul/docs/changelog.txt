@@ -1,0 +1,6 @@
+Version 1.1
+- Fixed weapon ability icons to use the right images.
+- Added the changelog file.
+
+Version 1.0
+- Initial release.
